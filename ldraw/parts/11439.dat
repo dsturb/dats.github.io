@@ -1,0 +1,20 @@
+0 Minifig Sword with Jagged Edges
+0 Name: 11439.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Weapon
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2019-08-16 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+0 !HISTORY 2022-12-29 [kuramapika1] Reworked part shape according to Lego Builder App and added keyword
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11439s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11439s03.dat

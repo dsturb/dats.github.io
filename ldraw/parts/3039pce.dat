@@ -1,0 +1,18 @@
+0 Slope Brick 45  2 x  2 with Radar and Disk Slot Black Pattern
+0 Name: 3039pce.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3039pb041, buttons, controls, screen, Set 7035
+
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2022-11-29 [Philo] Subparted for inverted slope version
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039pces01.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\3039pces02.dat

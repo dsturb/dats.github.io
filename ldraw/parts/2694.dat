@@ -1,0 +1,20 @@
+0 Windscreen  3 x 10 x  3
+0 Name: 2694.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2015-01-04 [MagFors] Modified with WINDZ for BFC compliance
+0 !HISTORY 2015-01-04 [MagFors] Primitive substitution, removed T-junctions
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2020-09-17 [Cheenzo] Updated to use subfile created for patterns
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2694s01.dat
+4 16 90 64 -30 90 0 -10 -90 0 -10 -90 64 -30
